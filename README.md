@@ -1,4 +1,8 @@
 # Hi 👋, I'm SuyangLumiere
+<a href="https://suyanglumiere.github.io/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Homepage-suyanglumiere.github.io-2196F3?style=for-the-badge" alt="Personal Homepage" />
+</a>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=false&vCenter=true&width=600&lines=A+budding+Python+developer;From+Finance+%26+Mgmt+to+AI;Exploring+Spatial+Transcriptomics;Focusing+on+CV+%26+MLLM" alt="Typing SVG" /></a>
 
